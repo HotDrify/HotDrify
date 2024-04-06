@@ -1,6 +1,6 @@
-### about me:
-Hi, I'm HotDrify!
-I study languages such as: python, go
+![Logo](https://raw.githubusercontent.com/HotDrify/HotDrify/main/standard.gif)
+# Hi, I'm HotDrify!
+### I study languages such as: python, go
 ----
 ### ❤️ my stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HotDrify&theme=tokyonight&date_format=d%20F[%20Y])](https://git.io/streak-stats)
