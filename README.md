@@ -6,7 +6,7 @@
 
 <h2>🤔 About me</h2>
 <ul>
-    <li>My name is Sergey. I am 15 years old, I am fond of programming.</li>
+    <li>My name is Sergey. I am 17 years old, I am fond of programming.</li>
     <li>I know several languages and do frontend at an entry level.</li>
     <li>I mainly use Python for writing projects.</li>
 </ul>
